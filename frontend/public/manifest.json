@@ -1,0 +1,28 @@
+{
+  "name": "BluZiperld - سفارش نامه دست‌نویس",
+  "short_name": "BluZiperld",
+  "description": "سفارش آنلاین نامه دست‌نویس با بهترین خط. نوشتن نامه عاشقانه، اداری، تولد و شخصی. ارسال فوری به سراسر ایران.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050d27",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "id": "/",
+  "scope": "/",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

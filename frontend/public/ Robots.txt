@@ -1,0 +1,6 @@
+    User-agent: *
+    Disallow: /admin
+    Disallow: /panel
+    Disallow: /api
+    
+    Sitemap: https://bluziperld.ir/sitemap.xml
