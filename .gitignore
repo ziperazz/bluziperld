@@ -4,3 +4,4 @@ node_modules/
 .next/
 uploads/
 *.log
+*.zip
